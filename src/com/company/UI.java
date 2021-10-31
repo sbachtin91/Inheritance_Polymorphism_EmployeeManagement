@@ -56,6 +56,7 @@ public class UI {
 
     public static int firstMenu() {
         System.out.println("========== Menu ============");
+        System.out.println("New Line of code - Second commit");
         System.out.println("1. Management");
         System.out.println("2. Statistics");
         System.out.println("3. Show Sorted Lists");
